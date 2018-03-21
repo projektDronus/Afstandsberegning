@@ -1,0 +1,19 @@
+focal length = 4,3mm el. 28mm
+
+sensor width = 5.5mm
+sensor height = 4.1mm
+
+20cm = 2344x2344
+
+40cm = 1208x1272
+
+60cm = 776x864
+
+bog = 120x119mm
+
+pixel pitch (5.5/5312) = 0.001035392
+
+object size on sensor = pixel pitch*object widthpx = 2.427mm
+
+distance = 120*(2.427/28)
+
